@@ -1,0 +1,19 @@
+(dp1
+S'output'
+p2
+S''
+sS'layer'
+p3
+S'Framework'
+p4
+sS'code'
+p5
+S''
+sS'snapshot'
+p6
+(dp7
+sS'traceback'
+p8
+S'Traceback (most recent call last):\n  File "/Applications/web2py.app/Contents/Resources/gluon/main.py", line 447, in wsgibase\n  File "/Applications/web2py.app/Contents/Resources/gluon/main.py", line 192, in serve_controller\n  File "/Applications/web2py.app/Contents/Resources/gluon/compileapp.py", line 712, in run_view_in\n  File "/Applications/web2py.app/Contents/Resources/gluon/template.py", line 797, in parse_template\n  File "/Applications/web2py.app/Contents/Resources/gluon/template.py", line 319, in __init__\n  File "/Applications/web2py.app/Contents/Resources/gluon/template.py", line 684, in parse\n  File "/Applications/web2py.app/Contents/Resources/gluon/template.py", line 462, in include\n  File "/Applications/web2py.app/Contents/Resources/gluon/template.py", line 439, in _get_file_text\n  File "<string>", line 1, in <module>\nNameError: name \'layout\' is not defined\n'
+p9
+s.
